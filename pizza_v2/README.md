@@ -54,6 +54,4 @@ php -S localhost:8000
 ```
 Puis aller sur : http://localhost:8000
 
-### Avec XAMPP
-Copier le dossier dans `htdocs/pizza_nova/`
-Puis aller sur : http://localhost/pizza_nova/
+
