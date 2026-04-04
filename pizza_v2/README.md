@@ -4,8 +4,6 @@
 
 ```
 pizza_nova/
-│
-├── index.php              ← Redirige automatiquement vers vues/index.php
 ├── style.css              ← Feuille de style commune
 │
 ├── vues/                  ← TOUS les fichiers PHP sont ici
@@ -34,8 +32,8 @@ pizza_nova/
 │   ├── menus.json
 │   └── commandes.json
 │
-├── images/                ← Copier ici les images de la Phase 1
-└── scripts/               ← Scripts JavaScript (Phase 3)
+├── images/               
+
 ```
 
 ## Comptes de test
